@@ -2,7 +2,7 @@
 
 This repository is a simple example on how to create ejb (session bean including JPA as a replacement for EJB's entity bean) as well as client web appliation using struts 2 and AJAX (get and post).
 
-Requirements:
+Prerequisites:
 
 1. Netbeans 8.1
 2. Struts 2
